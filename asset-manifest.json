@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-React-Basico/static/css/main.4a821502.css",
+    "main.js": "/Landing-Page-React-Basico/static/js/main.cbd4773e.js",
+    "static/media/tartaruga.jpg": "/Landing-Page-React-Basico/static/media/tartaruga.a16bda7a2f6614ad0dc6.jpg",
+    "static/media/camisa.jpg": "/Landing-Page-React-Basico/static/media/camisa.03ee77c98954bb5d2302.jpg",
+    "static/media/Camisetas-e-uniformes.webp": "/Landing-Page-React-Basico/static/media/Camisetas-e-uniformes.73aae3db51759cd0ccb6.webp",
+    "index.html": "/Landing-Page-React-Basico/index.html",
+    "main.4a821502.css.map": "/Landing-Page-React-Basico/static/css/main.4a821502.css.map",
+    "main.cbd4773e.js.map": "/Landing-Page-React-Basico/static/js/main.cbd4773e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a821502.css",
+    "static/js/main.cbd4773e.js"
+  ]
+}
