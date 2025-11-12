@@ -92,3 +92,21 @@ footer p{
   padding: 10px;
   text-align: center;
 }
+
+//responsividade
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .hero-text {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  button {
+    width: 100%;
+  }
+}
