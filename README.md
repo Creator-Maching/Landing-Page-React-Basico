@@ -7,8 +7,7 @@ Projeto simples de landing page construído com React, como forma de prática du
 
 ## 🧠 Sobre o Projeto
 
-- Projeto criado para exercitar a construção de uma landing page responsiva utilizando **React**, **HTML**, **CSS** e **JavaScript**.  
-- Hospedado via GitHub Pages: [https://creator-maching.github.io/Landing-Page-React-Basico/](https://creator-maching.github.io/Landing-Page-React-Basico/)  
+- Projeto criado para exercitar a construção de uma landing page responsiva utilizando **React**, **HTML**, **CSS** e **JavaScript**.   
 - Objetivo deste repositório: aprender estrutura de componentes, estilização, layout responsivo e deploy.
 
 ---
@@ -24,7 +23,7 @@ Projeto simples de landing page construído com React, como forma de prática du
 
 ## 🎯 Funcionalidades
 
-- Layout de landing page com seções típicas (Hero, Features/Benefícios, Call to Action, Footer).  
+- Layout de landing page com seções típicas.  
 - Responsividade para dispositivos móveis, tablet e desktop.  
 - Estilização simples e limpa, focada em aprendizado e clareza.
 
