@@ -1,4 +1,7 @@
-# Landing Page React Básico
+ <img width="1337" height="594" alt="Captura de tela 2025-11-14 130345" src="https://github.com/user-attachments/assets/ed81a296-1210-4afb-b906-d5c1d4e8b1d6" />
+# Landing Page
+
+eact Básico
 
 Bem-vindo ao repositório **Landing-Page-React-Basico**!  
 Projeto simples de landing page construído com React, como forma de prática durante o meu percurso como desenvolvedor full-stack.
