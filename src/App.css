@@ -93,20 +93,70 @@ footer p{
   text-align: center;
 }
 
-//responsividade
+@media (max-width: 992px) {
+  .conteudo {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .uniformes {
+    width: 350px;
+  }
+
+  .camiseta {
+    width: 250px;
+  }
+
+  .descricao {
+    margin: 20px;
+  }
+}
+
+/* Celulares grandes */
 @media (max-width: 768px) {
-  .container {
+  .conteudo {
     flex-direction: column;
-    align-items: center;
-    padding: 1rem;
-  }
-
-  .hero-text {
-    font-size: 1.5rem;
     text-align: center;
+    margin: 20px;
   }
 
-  button {
-    width: 100%;
+  .uniformes {
+    width: 300px;
+  }
+
+  .camiseta {
+    width: 220px;
+  }
+
+  .botao {
+    margin: 20px auto;
+  }
+
+  .descricao {
+    margin: 20px;
+  }
+}
+
+/* Celulares pequenos */
+@media (max-width: 480px) {
+  .titulo {
+    font-size: 22px;
+    padding: 10px;
+  }
+
+  .uniformes {
+    width: 250px;
+  }
+
+  .camiseta {
+    width: 200px;
+  }
+
+  .descricao p {
+    font-size: 14px;
+  }
+
+  .conteudo {
+    padding: 15px;
   }
 }
